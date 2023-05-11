@@ -39,3 +39,5 @@ The both long command-lines have a same structure, they pipe multiple commands u
 <!-- 1. [](https://www.youtube.com/)
 1. [](https://www.youtube.com/) -->
 ![image](https://github.com/winifred-kay/Sentiment-Analysis-with-huggingface-fac/assets/74463676/5e1c3d37-8dc6-4b1a-81d8-dbb67cc2e53e)
+![image](https://github.com/winifred-kay/Sentiment-Analysis-with-huggingface-fac/assets/74463676/2715854a-7ea7-47b1-9cbf-50bf88edd1d3)
+
