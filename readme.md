@@ -10,8 +10,7 @@ Sentiment analysis, also known as opinion mining, is the computer process of det
 ###### Fine-Tuning with Hugging Face:
 Hugging Face is a popular NLP (Natural Language Processing) library that provides a rich ecosystem of pre-trained transformer models. These models, such as BERT (Bidirectional Encoder Representations from Transformers) and GPT-2 (Generative Pre-trained Transformer 2), have been trained on vast amounts of text data and possess remarkable language understanding capabilities. We can leverage these pre-trained models and fine-tune them for specific tasks like sentiment analysis.
 
-###### Data Collection and Preprocessing:
-About Data
+## About Data
 The datasets used for this project have the column below
  1. tweet_id
  2. safe_text
