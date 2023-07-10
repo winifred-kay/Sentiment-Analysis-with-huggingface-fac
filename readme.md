@@ -1,6 +1,6 @@
 # Project : Natural Language Processing
 
-##Introduction
+## Introduction
 Sentiment analysis has become a key tool for businesses and organizations to comprehend the attitudes and opinions expressed by individuals regarding their products, services, or content in an increasingly digitalized world. Sentiment analysis provides effective extraction of sentiment patterns from user-generated content on social media platforms, online reviews, and discussion forums, allowing organizations to make data-driven decisions. This post will highlight a machine learning study that uses fine-tuning approaches on the Hugging Face platform to classify emotion as positive, negative, or neutral.
 
 ## Project Flow
