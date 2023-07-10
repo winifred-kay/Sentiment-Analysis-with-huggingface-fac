@@ -1,25 +1,20 @@
 # Project : Natural Language Processing
 
 ##Introduction
- In recent years, the revolutionary advancements in the field of artificial intelligence (AI) have piqued interest in several industries, including healthcare. Combining the power of AI and natural language processing (NLP), This project aims to predict the sepsis status of patients using sentiment analysis. This innovative approach showcases the potential of technology to improve patient outcomes and revolutionize healthcare systems.
+Sentiment analysis has become a key tool for businesses and organizations to comprehend the attitudes and opinions expressed by individuals regarding their products, services, or content in an increasingly digitalized world. Sentiment analysis provides effective extraction of sentiment patterns from user-generated content on social media platforms, online reviews, and discussion forums, allowing organizations to make data-driven decisions. This post will highlight a machine learning study that uses fine-tuning approaches on the Hugging Face platform to classify emotion as positive, negative, or neutral.
 
 ## Project Flow
-###### Understanding Sepsis:
-Sepsis is a life-threatening condition triggered by the body's response to an infection. It occurs when the immune system spirals out of control, causing widespread inflammation, organ dysfunction, and, if left untreated, can lead to severe complications or even death. The early detection of sepsis is crucial for prompt interventions and better patient outcomes.
+###### Understanding Sentiment Analysis:
+Sentiment analysis, also known as opinion mining, is the computer process of determining the sentiment expressed in a piece of text, whether that content be a sentence, paragraph, or an entire document. Sentiment analysis identifies these texts as positive, negative, or neutral using machine learning algorithms, providing enterprises with important insights into public opinion.
 
-###### Utilizing Sentiment Analysis:
-This NLP project leverages sentiment analysis, a technique that extracts emotional context from textual data, to predict a patient's sepsis status. By analyzing patient reports and relevant data.
+###### Fine-Tuning with Hugging Face:
+Hugging Face is a popular NLP (Natural Language Processing) library that provides a rich ecosystem of pre-trained transformer models. These models, such as BERT (Bidirectional Encoder Representations from Transformers) and GPT-2 (Generative Pre-trained Transformer 2), have been trained on vast amounts of text data and possess remarkable language understanding capabilities. We can leverage these pre-trained models and fine-tune them for specific tasks like sentiment analysis.
 
 ###### Data Collection and Preprocessing:
 About Data
-
-###### Model Training and Evaluation:
-
-
-
-
-###### Prediction and Integration:
-
+The datasets used for this project have the column below
+safe text : 
+label :
 
 ## Setup
 Install the required packages to be able to run the evaluation locally.
