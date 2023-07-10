@@ -20,9 +20,14 @@ The datasets used for this project have the column below
 
 ## Setup
 Google colab was used in this project. 
+
 https://colab.research.google.com/
+
 Other libraries essential for fine tuning proojects are
-transformers
+1. huggingface_hub
+2. transformers
+3. datasets
+4. gradio /Streamlit
 
 ## Ressources
 1. [Quick intro to NLP](https://www.youtube.com/watch?v=CMrHM8a3hqw)
