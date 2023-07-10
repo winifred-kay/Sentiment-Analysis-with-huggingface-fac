@@ -1,12 +1,25 @@
 # Project : Natural Language Processing
 
-## Description
+##Introduction
+ In recent years, the revolutionary advancements in the field of artificial intelligence (AI) have piqued interest in several industries, including healthcare. Combining the power of AI and natural language processing (NLP), This project aims to predict the sepsis status of patients using sentiment analysis. This innovative approach showcases the potential of technology to improve patient outcomes and revolutionize healthcare systems.
 
-This repository contains the ressources to start the NLP-related live project you shoud take. The below assignments will introduce you in Unstructured data exploitation, especially Natural Language Processing data, using ML. 
+## Project Flow
+###### Understanding Sepsis:
+Sepsis is a life-threatening condition triggered by the body's response to an infection. It occurs when the immune system spirals out of control, causing widespread inflammation, organ dysfunction, and, if left untreated, can lead to severe complications or even death. The early detection of sepsis is crucial for prompt interventions and better patient outcomes.
 
-## Assignments
-Find the list of assignments below:
-- [Zindi NLP Challenge](/zindi_challenge/)
+###### Utilizing Sentiment Analysis:
+This NLP project leverages sentiment analysis, a technique that extracts emotional context from textual data, to predict a patient's sepsis status. By analyzing patient reports and relevant data.
+
+###### Data Collection and Preprocessing:
+About Data
+
+###### Model Training and Evaluation:
+
+
+
+
+###### Prediction and Integration:
+
 
 ## Setup
 Install the required packages to be able to run the evaluation locally.
